@@ -1,0 +1,21 @@
+{
+  "name": "USDM Token List",
+  "logoURI": "https://raw.githubusercontent.com/alexbezza/usdm-token-info/main/logo.png",
+  "keywords": ["usdm", "stable", "erc20"],
+  "timestamp": "2025-03-24T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x790c7e6e8812df25ac4c8e35d96bcc1b0738b6b3",
+      "name": "Usdm",
+      "symbol": "USDM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/alexbezza/usdm-token-info/main/logo.png"
+    }
+  ]
+}
